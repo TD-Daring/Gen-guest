@@ -1,0 +1,8 @@
+aiohttp
+pycryptodome
+google-play-scraper
+protobuf-decoder
+pyTelegramBotAPI
+requests
+protobuf
+urllib3<2
